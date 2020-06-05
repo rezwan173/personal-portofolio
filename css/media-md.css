@@ -1,0 +1,137 @@
+/* medium devices (tablets, 768px and up*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+    
+    /* common */
+    p{
+        font-size: 15px;
+        line-height: 25px;
+        margin-bottom: 13px;
+    }
+    h1{
+        font-size: 38px;
+    }
+    h2{
+        font-size: 24px;
+    }
+    h3{
+        font-size: 17px;
+    }
+    h4{
+        font-size: 15px;
+    }
+    
+   
+
+    /* header */
+    .menu-content h1 {
+        font-size: 39px;
+        border-top: 2px solid #d3d3d8;
+        border-bottom: 2px solid #d3d3d8;
+    }
+    .menu-content{
+        padding-top: 30%;
+    }
+    .menu-content p {
+        font-size: 16px;
+        letter-spacing: .023em;
+    }
+
+    /* about-me */
+    .about-me {
+    padding: 80px 0;
+    }
+    .about-image img{
+        width: 250px;
+    }
+    .about-me h3 {
+        padding: 0 0 20px 0;
+    }
+    .about-content {
+        margin-left: 25px;
+    }
+    .about-content p {
+        padding: 0 0 6px 0;
+    }
+    .btn-custom {
+        width: 180px;
+        height: 43px;
+        margin-top: 15px;
+        margin-bottom: 0px;
+    }
+
+    /* my-working */
+    .my-working {
+        padding: 80px 0;
+    }
+    .common-title p{
+        padding: 20px 0 30px;
+    }
+    .work-3 {
+        margin-top: 12px;
+    }
+    .work-4 {
+        margin-top: 12px;
+    }
+    .work img{
+        padding: 90px 0 20px;
+    }
+    .work p {
+        font-size: 16px;
+        padding: 20px 0 80px;
+    }
+
+    /* experience-and-education */
+    .experience-education{
+	padding: 80px 0;
+    }
+    .common-part {
+        padding: 45px 25px 30px;
+    }
+
+    /* my-latest-work */
+    .my-latest-work {
+        padding: 80px 0;
+    }
+    .box3 {
+        margin-bottom: 30px;
+    }
+
+    /* testimonial */
+    .testimonial {
+        padding: 80px 0;
+    }
+    
+    /* contact */
+    /* experience-and-education */
+    .contact{
+        padding: 80px 0;
+    }
+    .contact-form {
+        padding: 40px 25px 30px;
+    }
+    .contact-form h2{
+        padding-bottom: 30px;
+    }
+    .form-custom{
+        padding: 15px 10px;
+    }
+    .form-custom2{
+        padding: 8px 10px;
+    }
+    .btn-custom2 {
+        width: 170px;
+        height: 35px;
+        margin-top: 8px;
+    }
+
+    /* address phone & web */
+    .address{
+        padding: 40px 25px 30px;
+    }
+
+    /* footer */
+    .footer{
+        padding: 45px 0;
+    }
+    
+}	
